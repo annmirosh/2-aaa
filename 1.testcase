@@ -1,2 +1,19 @@
 /* Please do not make any changes directly in the file, only through our Platform, otherwise it won't work */
-[]
+[
+    {
+        "id": "212db13b627b71611f03fc5bf683a2a6a18e085bad48d486aa536f725f64d4c6",
+        "name": "1",
+        "phrases": [
+            {
+                "id": "91780ad7-c679-5c7c-40e0-6dac24011b69",
+                "parentId": "",
+                "request": {
+                    "text": "hi"
+                },
+                "response": "[{\"text\":\"I'm listening\",\"error\":true,\"reqId\":\"1643576986328/1\",\"textInput\":true}]",
+                "meta": "{}",
+                "visualProperties": "{\"childIndex\":0}"
+            }
+        ]
+    }
+]
